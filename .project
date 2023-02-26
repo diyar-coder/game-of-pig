@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>avatar-creator</name>
+=======
 	<name>game-of-pig</name>
+>>>>>>> branch 'master' of https://github.com/diyar-coder/game-of-pig.git
 	<comment></comment>
 	<projects>
 	</projects>
