@@ -1,8 +1,6 @@
 # game-of-pig
 
 
-## Description
-
 sdfsdfsdfsdfds
 
 
